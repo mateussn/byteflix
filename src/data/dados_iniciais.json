@@ -1,183 +1,171 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Assembly Programming",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC8t99gp5IN-FTf5rGVaRevw"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "What Is Assembly Language? #LowLevelCoding",
+          "url": "https://www.youtube.com/watch?v=1FXhjErUz58"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Introduction to GBZ80 Assembly programming",
+          "url": "https://www.youtube.com/watch?v=Tn1rFUutkdo&list=PLp_QNRIYljFrNLNhKgIZQjMM9eaZd166O"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Learn Multiplatform Arm Assembly",
+          "url": "https://www.youtube.com/watch?v=7vz8VRaArCM&list=PLp_QNRIYljFrVKGVfqGVKdZYOn4FkifBi"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Super Nintendo / SNES/ Super Famicom - 6502 Assembly",
+          "url": "https://www.youtube.com/watch?v=5EBZsFaSL5I&list=PLp_QNRIYljFrC7p62O2uJ9umHezHaEUsK"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "NES / FAMICOM - Learn 6502 Assembly",
+          "url": "https://www.youtube.com/watch?v=kG2RobA7keI&list=PLp_QNRIYljFoSkq8absJGxocIvofS06RN"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Learn Multiplatform 8086 Assembly",
+          "url": "https://www.youtube.com/watch?v=K9eRSsYlt00&list=PLp_QNRIYljFpvg9tgPabsWHGi8Uox-rpy"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Learn Multi platform Z80 Assembly Programming",
+          "url": "https://www.youtube.com/watch?v=LpQCEwk2U9w&list=PLp_QNRIYljFq-9nFiAUiAkRzAXfcZTBR_"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Emulation",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "NES Emulator From Scratch",
+          "url": "https://www.youtube.com/watch?v=F8kx56OZQhg&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf&index=2"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Ryan Levick: Oh Boy! Creating a Game Boy Emulator in Rust",
+          "url": "https://www.youtube.com/watch?v=B7seNuQncvU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Building A Gameboy Emulator with Rust",
+          "url": "https://www.youtube.com/watch?v=8vuzp5hU53E&list=PLye7LM1YVhDHR4TGMklN3tMt_J2jIrn1w"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Writing a GB emulator in JS",
+          "url": "https://www.youtube.com/watch?v=i08S5qolgvc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Creating a Chip8 interpreter/emulator in C++14",
+          "url": "https://www.youtube.com/watch?v=rpLoS7B6T94"
+        },
+        {
+          "titulo": "Chip-8 Emulator",
+          "url": "https://www.youtube.com/watch?v=AsukaPLuTsU&list=PL5PyurErl12czoLyYD8za68d61T_OZsP2"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Hardware",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "The Game Boy, a hardware autopsy",
+          "url": "https://www.youtube.com/watch?v=RZUDEaLa5Nw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Ultimate Game Boy Talk (33c3)",
+          "url": "https://www.youtube.com/watch?v=HyzD8pNlpwI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "How Graphics worked on the Nintendo Game Boy Advance | MVG",
+          "url": "https://www.youtube.com/watch?v=mpNWEbZdXNw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "How Graphics worked on the Nintendo Game Boy | MVG",
+          "url": "https://www.youtube.com/watch?v=zQE1K074v3s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Digital Electronic",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "CONSTRUA UM COMPUTADOR DE 8 BITS",
+          "url": "https://www.youtube.com/watch?v=2llmPWBYvQo&list=PLZ8dBTV2_5HTB43Mhfz-TyIATkECrp8XY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Making logic gates from transistors",
+          "url": "https://www.youtube.com/watch?v=sTu3LwpF6XI&t=316s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "8-bit computer update",
+          "url": "https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Build a 65c02-based computer from scratch",
+          "url": "https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH"
+        },
+        {
+          "titulo": "The world's worst video card?",
+          "url": "https://www.youtube.com/watch?v=l7rce6IQDWs"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "C Programming",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Code-It-Yourself!",
+          "url": "https://www.youtube.com/watch?v=8OK8_tHeCIA&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Creating music in one line of C code",
+          "url": "https://www.youtube.com/watch?v=L9KLnN0GczI"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Creating a Doom-style 3D engine in C",
+          "url": "https://www.youtube.com/watch?v=HQYsFshbkYw"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Let's make 16 games in C++: TETRIS",
+          "url": "https://www.youtube.com/watch?v=zH_omFPqMO4&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "OS Development/Hacking",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "OS hacking: Local root exploit via the QEMU graphics driver",
+          "url": "https://www.youtube.com/watch?v=DhVZ7vO69DI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "OS hacking: A kernel device for debug logging",
+          "url": "https://www.youtube.com/watch?v=v1m9RVCYSd8"
         }
       ]
     }
